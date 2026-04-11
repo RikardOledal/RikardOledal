@@ -22,6 +22,15 @@ I'm studying to be a **Data Engineer** at Stockholm Institute of Technology. I'm
   It captures real-time events via FastAPI and Kafka, processes the data, and stores it in a PostgreSQL database using Supabase. The insights are then visualized in a dashboard built with Evidence. The entire project is orchestrated with Docker. A group project with sprints and MVP. In co-op with [Akina Aoki](https://github.com/Akina-Aoki)
   🎯 *Role: Scrum Master & Developer.*
 
+### 📦 SportsWear AB
+- **[Data Platform Development - An end-to-end data pipeline and warehouse platform](https://github.com/Akina-Aoki/Product_Finder.git)**  
+  It captures real-time events via FastAPI and Kafka, processes the data, and stores it in a PostgreSQL database using Supabase. The insights are then visualized in a dashboard built with Evidence. The entire project is orchestrated with Docker. A group project with sprints and MVP. In co-op with [Akina Aoki](https://github.com/Akina-Aoki)
+  🎯 *Role: Scrum Master & Developer.*
+
+### 🎵 K Kareoke App
+- **[ETL-pipeline and Streamlit - K Kareoke Data Pipeline and App](https://github.com/RikardOledal/k_kareoke)**  
+  My class was going to sing kareoke, but the playlists were a mess. I developed an ETL pipeline in Python to clean, categorize and structure playlists from raw CSV files into a unified database. To make the data interactive and usable during the karaoke night itself, I also deployed a searchable dashboard with [Streamlit](https://kkareoke-vtozcvwjygdv2wc4qcaclm.streamlit.app/).
+
 ## 📫 Contact me
 - **LinkedIn:** [Rikard Oledal](https://www.linkedin.com/in/rikard-oledal-794aa134/)
 - **Email:** [rikard.oledal@gmail.com](mailto:rikard.oledal@gmail.com)
@@ -57,4 +66,11 @@ I'm studying to be a **Data Engineer** at Stockholm Institute of Technology. I'm
 **CI/CD**
 - Github Actions
 - pytest
+
+## 📚 Upcoming Courses
+
+- ☁️ Big Data and Cloud – Practical development and NoSQL *(starting soon)*
+- 🏗️ Data Warehouse Lifecycle *(next)*
+- 🤖 AI Ops
+- 📝 Examensarbete *(final project)*
 
