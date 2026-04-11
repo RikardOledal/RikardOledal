@@ -4,7 +4,7 @@ I'm studying to be a **Data Engineer** at Stockholm Institute of Technology. I'm
 
 - 🔍 **Focus:** SQL, Data Modeling & Dashboards.
 - 🎓 **Education:** Data Engineer @ STI (Graduate 2027).
-- 🚀 **LIA:** I'm currently looking for an exciting LIA position for fall 2026!
+- 🚀 **LIA:** I'm currently looking for an exciting LIA position for spring 2027!
 
 ## 📁 Projects
 
