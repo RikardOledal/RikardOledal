@@ -8,15 +8,16 @@ I'm studying to be a **Data Engineer** at Stockholm Institute of Technology. I'm
 
 ## 📁 Projects
 
-### Geometry ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
-**[Python – Geometry OOP](https://github.com/RikardOledal/Lab2_DE25_Rikard_Oledal.git)**  
+### Python & Geometry
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
   Object-oriented implementation of geometric shapes with properties (area, perimeter), comparison operators, translation methods, error handling, and UML planning.  
-  - [View - Video of Presentation](https://www.youtube.com/watch?v=ynXYXEkiNHc)
+  - [Repository](https://github.com/RikardOledal/Lab2_DE25_Rikard_Oledal.git)
+  - [Video of Presentation](https://www.youtube.com/watch?v=ynXYXEkiNHc)
 
 ### SQL & Sakila Database ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Evidence](https://img.shields.io/badge/Evidence-000000?style=flat)
-**[SQL – DVD Rental Analysis](https://github.com/RikardOledal/SQL_DE25_LAB_Rikard_Oledal.git)**  
   SQL analysis of DVD rental data using DuckDB and Pandas. EDA visualized in Evidence dashboard (dashboard as code). Created refined schema for easier processing in Evidence.
-  - [View - Video of Presentation](https://www.youtube.com/watch?v=sDFPIl1nzCo)
+  - [Repository](https://github.com/RikardOledal/SQL_DE25_LAB_Rikard_Oledal.git)
+  - [Video of Presentation](https://www.youtube.com/watch?v=sDFPIl1nzCo)
 
 ### SportsWear AB ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 **[Data Platform Development - An end-to-end data pipeline and warehouse platform](https://github.com/Akina-Aoki/Product_Finder.git)**  
