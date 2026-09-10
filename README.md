@@ -8,38 +8,6 @@ I'm studying to be a **Data Engineer** at Stockholm Institute of Technology. I'm
 
 ## 📁 Projects
 
-### 🟨🟢🔷 Geometry
-- **[Python – Geometry OOP](https://github.com/RikardOledal/Lab2_DE25_Rikard_Oledal.git)**  
-  Object-oriented implementation of geometric shapes with properties (area, perimeter), comparison operators, translation methods, error handling, and UML planning.  
-  ✨ *Bonus: 3D shapes and Matplotlib visualization.*
-
-### 🗄️ SQL & Sakila Database
-- **[SQL – DVD Rental Analysis](https://github.com/RikardOledal/SQL_DE25_LAB_Rikard_Oledal.git)**  
-  SQL analysis of DVD rental data using DuckDB and Pandas. EDA visualized in Evidence dashboard (dashboard as code). Created refined schema for easier processing in Evidence.
-
-### 📦 SportsWear AB
-- **[Data Platform Development - An end-to-end data pipeline and warehouse platform](https://github.com/Akina-Aoki/Product_Finder.git)**  
-  It captures real-time events via FastAPI and Kafka, processes the data, and stores it in a PostgreSQL database using Supabase. The insights are then visualized in a dashboard built with Evidence. The entire project is orchestrated with Docker. A group project with sprints and MVP. In co-op with [Akina Aoki](https://github.com/Akina-Aoki)
-  🎯 *Role: Scrum Master & Developer.*
-
-### 🎵 K Kareoke App
-- **[ETL-pipeline and Streamlit - K Kareoke Data Pipeline and App](https://github.com/RikardOledal/k_kareoke)**  
-  My class was going to sing karaoke, but the playlists were a mess. I developed an ETL pipeline in Python to clean, categorize and structure playlists from raw CSV files into a unified database. To make the data interactive and usable during the karaoke night itself, I also deployed a searchable dashboard with [Streamlit](https://kkareoke-vtozcvwjygdv2wc4qcaclm.streamlit.app/).
-
-### ⏪ The Rewind Project
-- **[Streamlit & DuckDB – Music Profile Analysis Dashboard](https://github.com/JohnnyHyytiainen/DEUX2025_music_project.git)** 
-  A collaborative music profile analysis dashboard developed alongside fellow Data Engineering and UX students. Built using Streamlit and DuckDB, the application features custom audio metric sliders, tailored CSS styling, and efficient data loading functions to analyze and visualize music preferences. To view the dashboard, please visit [Rewind Project - Streamlit](https://rewind-project.streamlit.app/).
-
-# Hi, I'm Rikard Oledal! 👋
-
-I'm studying to be a **Data Engineer** at Stockholm Institute of Technology. I'm driven by building robust data pipelines and transforming raw data into insights through smart modeling and beautiful visualizations.
-
-- 🔍 **Focus:** SQL, Data Modeling & Dashboards.
-- 🎓 **Education:** Data Engineer @ STI (Graduate 2027).
-- 🚀 **LIA:** I'm currently looking for an exciting LIA position for spring 2027!
-
-## 📁 Projects
-
 ### Geometry ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
 - **[Python – Geometry OOP](https://github.com/RikardOledal/Lab2_DE25_Rikard_Oledal.git)**  
   Object-oriented implementation of geometric shapes with properties (area, perimeter), comparison operators, translation methods, error handling, and UML planning.  
