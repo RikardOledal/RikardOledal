@@ -14,7 +14,7 @@ Object-oriented implementation of geometric shapes with properties (area, perime
 - [Repository](https://github.com/RikardOledal/Lab2_DE25_Rikard_Oledal.git)
 - [Video of Presentation](https://www.youtube.com/watch?v=ynXYXEkiNHc)
 
-### SQL & Sakila Database<br>![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Evidence](https://img.shields.io/badge/Evidence-000000?style=flat)
+### SQL & Sakila Database  ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Evidence](https://img.shields.io/badge/Evidence-000000?style=flat)
 SQL analysis of DVD rental data using DuckDB and Pandas. EDA visualized in Evidence dashboard (dashboard as code). Created refined schema for easier processing in Evidence.
 - [Repository](https://github.com/RikardOledal/SQL_DE25_LAB_Rikard_Oledal.git)
 - [Video of Presentation](https://www.youtube.com/watch?v=sDFPIl1nzCo)
